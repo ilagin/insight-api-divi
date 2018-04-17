@@ -1,7 +1,7 @@
 {
   "name": "insight-api-divi",
   "description": "A Divi blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.4.16",
+  "version": "0.4.17",
   "repository": "git://github.com/divicoin/insight-api-divi.git",
   "contributors": [
     {
